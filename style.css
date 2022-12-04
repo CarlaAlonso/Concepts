@@ -16,7 +16,7 @@ body {
 }
 
 .orange0{
-  background-color: rgb(187, 131, 239);
+  background-color: rgba(187, 131, 239, 0.808);
 }
 
 .padding{
@@ -52,7 +52,7 @@ body {
 }
 
 .orange1{
-  background-color: rgb(41, 0, 66, 0.8);
+  background-color: rgba(96, 32, 136, 0.8);
 }
 
 .gris{
