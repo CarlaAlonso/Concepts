@@ -51,6 +51,10 @@ body {
   color: rgb(0, 0, 0);
 }
 
+.text-white{
+  color: rgb(255, 255, 255);
+}
+
 .orange1{
   background-color: rgba(96, 32, 136, 0.8);
 }
